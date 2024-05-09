@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Zornotza Ezagutzen</string>
+    <string name="hasi">Hasi</string>
+    <string name="delete">Kendu</string>
+    <string name="zornotzako_larrea_eskola">Zornotzako Larrea Eskola</string>
+    <string name="_1_gunea">1) Gunea</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_gune">GuneActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="preguntaUNO">Zein herrialderi dagokio??</string>
+    <string name="entzun">Entzun</string>
+    <string name="estadistikak">Estadistikak</string>
+    <string name="azkenengo_data">AZKENENGO DATA</string>
+    <string name="gunea">GUNEA</string>
+    <string name="zenbat">ZENBAT</string>
+
+    <!--Tutorialeko Dialogoa-->
+    <string name="txtTutorialaGidoia1">
+            Abenturarekin hasi baino lehen nirekin etorri nahi duzula zihurtatu behar dut. Baimen batzuk beharko ditut zurekin egon ahal izateko; kontsultatu zure gurasoekin erabakia hartu baino lehen, mesedez!
+        </string>
+
+    <string name="txtTutorialaGidoia2">
+            Aupa! Munduko herri politenetako bat ikusteko prest? Oraindik ez dakizue zein den?
+        </string>
+
+    <string name="txtTutorialaGidoia3">
+            Zornotza!!!
+        </string>
+
+    <string name="txtTutorialaGidoia4">
+            Zornotza ezaguntzeko Zelaieta Eskolara joan eta jolasak egiten hasi!
+        </string>
+    <string name="todo">TODO</string>
+    <string name="budismoa">BUDISMOA</string>
+    <string name="islamismoa">ISLAMISMOA</string>
+    <string name="hinduismoa">HINDUISMOA</string>
+    <string name="kristautasuna">KRISTAUTASUNA</string>
+    <string name="title_activity_estats">Estats</string>
+    <string name="tuto_posizioa">Pantaila erdian dagoen borobil urdina adierazten du zure pozizioa mapan.</string>
+    <string name="tuto_gunea">Gorriz dagoen marka gune bat da. Hauek klikatzean aktibitateak egin ahal izango dituzue...</string>
+    <string name="tuto_radioa">... Baina horretarako urdinez dauden borobilen barruan egon behar zarete</string>
+    <string name="tuto_camara_mugitu">Mapa begiratzean, azko aldenduz gero; antailaren eskumaldean, goian, dagoen botoitxoa sakatuz maparen kamara zuen lokalizaziora bueltatuko da.</string>
+    <string name="tuto_progressbar">"Goian dagoen barra guneak amaitzean betetzen joango da ..."</string>
+    <string name="tuto_progressbar_erdi">"... Guneak amaitzean betetzen joango da ..."</string>
+    <string name="tuto_progressbar_full">"... Guztiz betetakoan esperientzia amaituko da."</string>
+    <string name="tuto_stats">Ezkerraldeko bekaldean dagoen botoi hori egunean zear egindako aktibitateen estadistikak erakutziko ditu.</string>
+    <string name="tuto_tutorial">Informazio hau berriro irakurri nahian eskumako bekaldeko botoia sakatu.</string>
+    <string name="tuto">Tutoriala</string>
+
+</resources>

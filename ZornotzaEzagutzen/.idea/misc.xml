@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_gune.xml" value="0.18854166666666666" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_pantalla_de_carga.xml" value="0.33" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_pantalla_de_carga_princ.xml" value="0.3582427536231884" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/audio_aktibitatea.xml" value="0.3582427536231884" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/bideo_aktibitatea.xml" value="0.3582427536231884" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/dialog_fragment.xml" value="0.3582427536231884" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_maps.xml" value="0.3582427536231884" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_maps_main.xml" value="0.32592592592592595" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_pantalla_de_carga.xml" value="0.25" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/gune_activity.xml" value="0.3582427536231884" />
+        <entry key="..\:/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/testu_aktibitatea.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/drawable/divider.xml" value="0.228" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/drawable/image_border.xml" value="0.3255" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_Sopiji.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_gune.xml" value="0.34553440702781846" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_pantalla_de_carga.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_pantalla_de_carga_princ.xml" value="0.35597826086956524" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_puzzle.xml" value="0.3234375" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_sopiji.xml" value="0.2" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/atzera_aurrera_aktibitatea.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/audio_aktibitatea.xml" value="0.33541666666666664" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/dialog_fragment.xml" value="0.33541666666666664" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_hizki_salda.xml" value="0.25" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_maps.xml" value="0.33645833333333336" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/gune_fragment.xml" value="0.33541666666666664" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/hasiera_aktibitatea.xml" value="0.31521739130434784" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/joko_aktibitatea.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/nab_button_aktibitatea.xml" value="0.2989583333333333" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/testu_aktibitatea.xml" value="0.33645833333333336" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/video_aktibitatea.xml" value="0.33541666666666664" />
+        <entry key="..\:/Users/in2dm3/Desktop/Oier/E2T3/ZornotzaEzagutzen/app/src/main/res/layout/zinematika_tutoriala.xml" value="0.26510416666666664" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/drawable/shape.xml" value="0.1045" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/drawable/shape_droptarget.xml" value="0.1045" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_drag.xml" value="0.1" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/activity_puzzle.xml" value="0.22" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/audio_aktibitatea.xml" value="0.1" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/bideo_aktibitatea.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/custom_drag_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/dialog_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_audio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_audio_principal.xml" value="0.5" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_cruzes.xml" value="0.33" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_drag.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_preguntas.xml" value="0.5" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_termometro.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_text.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_traduccion.xml" value="0.33" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/fragment_video.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/in2dm3/Documents/GitHub/E2-T3/ZornotzaEzagutzen/app/src/main/res/layout/gune_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/activity_gune.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/activity_main.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/activity_pantalla_de_carga.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/activity_pantalla_de_carga_princ.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/activity_puzzle.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/audio_aktibitatea.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/bideo_aktibitatea.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/dialog_fragment.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/fragment_maps.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/hasiera_aktibitatea.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/joko_aktibitatea.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/nab_button_aktibitatea.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/testu_aktibitatea.xml" value="0.34375" />
+        <entry key="..\:/Users/in2dm3/Music/E2-T3-main/ZornotzaEzagutzen/app/src/main/res/layout/zinematika_tutoriala.xml" value="0.34375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

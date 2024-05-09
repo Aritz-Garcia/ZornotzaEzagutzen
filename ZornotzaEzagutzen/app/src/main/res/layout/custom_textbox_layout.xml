@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/customTextboxLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="#B020B3ED"
+    android:orientation="vertical">
+
+    <com.e2t3.zornotzaezagutzen.Guneak.Typewriter
+        android:id="@+id/tvNombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#7C2F88CA"
+        android:padding="5dp"
+        android:text="TextView" />
+
+    <com.e2t3.zornotzaezagutzen.Guneak.Typewriter
+        android:id="@+id/type_CharactersTestu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#7CD2E2ED"
+        android:padding="5dp"
+        android:text="TextView" />
+</LinearLayout>

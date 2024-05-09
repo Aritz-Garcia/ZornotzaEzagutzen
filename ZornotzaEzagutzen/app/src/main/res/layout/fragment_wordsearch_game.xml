@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    android:orientation="vertical">
+
+    <com.e2t3.zornotzaezagutzen.wordsearch.WordSearchView
+        android:id="@+id/wordsGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#94FFFFFF" />
+
+    <LinearLayout
+        android:id="@+id/strikeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:background="#4BFFFFFF"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="10dp" />
+
+</LinearLayout>
