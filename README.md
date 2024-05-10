@@ -19,11 +19,19 @@ Zornotza Ezagutzen Android-en aplikazio bat da, txikientzako modu interaktibo et
 Aplikazioaren APK instalatzeko, "[**Releases**](https://github.com/Aritz-Garcia/ZornotzaEzagutzen/releases)" atalean sartu eta nahi den bertsioa deskargatu behar da.
 
 ## Galeria 🖼 
+### Argazkiak: 📷
 <div align="center">
 
 <img src="img/mockup/mockup_1.png" alt="Mockup 1" width="500px">
 
 <img src="img/mockup/mockup_2.png" alt="Mockup 2" width="500px">
+
+</div>
+
+### Bideoa: 🎥
+<div align="center">
+
+https://github.com/Aritz-Garcia/ZornotzaEzagutzen/assets/73273260/d3edd4a3-4869-499f-b58f-3ba2d743f78d
 
 </div>
 
